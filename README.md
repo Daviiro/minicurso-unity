@@ -13,14 +13,15 @@
  - 06/11/2021 às 14h até 18h
  
 ## Ideia Base apresentado no Curso: 
-Ariel apresentou um personagem principal, duas armas e um inimigo. Foi feito alguns scripts, tais como: 
+Ariel apresentou um personagem principal, duas armas e um inimigo. Fazendo um jogo de tiro em terceira pessoa. 
+Além disso, foi feito alguns scripts, tais como: 
  - Fazer o Inimigo se mover; 
  - Bala Atirar; 
  - Personagem Principal se mover;
  - Inimigos surgirem até atingir a quantidade 10; 
 
  # Nosso Projeto: 
- Acrescentamos dois diferentes personagens principais (Bob Esponja e a Planta) e mais um Inimigo (os Monstros/Among Us maiores) que existem em diversas cores. Além de criarmos uma Besta (arma) e um cenário de fundo.
+ Acrescentamos dois diferentes personagens principais (Bob Esponja e a Planta - o Jogador pode escolher entre eles, além do Personagem criado pelo Ariel) e mais um Inimigo (os Monstros/Among Us maiores) que existem em diversas cores. Além de criarmos uma Besta (arma) e um cenário de fundo. Logo, esse jogo em terceira pessoa pode ter diferentes variações de personagens, armas e inimigos.
 
 ![](./Imagens/Personagens.png)
  
@@ -31,4 +32,5 @@ Ariel apresentou um personagem principal, duas armas e um inimigo. Foi feito alg
  - Fazer dois players; 
  - Colocar mais armas, como um canhão; 
  - Criar obstaculos;
+ - Novos Cenários.
 
